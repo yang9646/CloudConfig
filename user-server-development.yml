@@ -1,1 +1,11 @@
+spring:
+  application:
+    name: user-server
 
+server:
+  port: 0
+
+user:
+  role: HJ
+  name: HJ
+  company: Beaconfire
