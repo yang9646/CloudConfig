@@ -1,9 +1,0 @@
-spring:
-  application:
-    name: movie-store
-
-server:
-  port: 7777
-
-user:
-  role: QA - This is test for Configuration Auto Refresh
