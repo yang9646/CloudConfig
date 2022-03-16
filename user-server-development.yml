@@ -3,9 +3,9 @@ spring:
     name: user-server
 
 server:
-  port: 0
+  port: 8081
 
 user:
-  role: HJ
+  role: Trainee
   name: HJ
   company: Beaconfire
