@@ -1,9 +1,0 @@
-spring:
-  application:
-    name: movie-store
-
-server:
-  port: 0
-
-user:
-  role: ADMIN
